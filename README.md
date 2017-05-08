@@ -25,7 +25,7 @@ Array
 
     [methodName] => welcome
     [object] => Horat1us\MethodInjection\DynamicObject
-    [message] => Bound Method welcome not found in Horat1us\MethodInjection\DynamicObject
+    [message] => Injected method welcome not found in Horat1us\MethodInjection\DynamicObject
 )
 
 ```
