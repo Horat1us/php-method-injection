@@ -57,7 +57,7 @@ class MethodNotFoundException extends \Exception
      */
     protected function generateMessage()
     {
-        return "Bound Method {$this->name} not found in " . get_class($this->object);
+        return "Injected method {$this->name} not found in " . get_class($this->object);
     }
 
     /**
