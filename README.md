@@ -2,7 +2,9 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/build-status/master)
-
+[![Latest Stable Version](https://poser.pugx.org/horat1us/php-method-injection/v/stable)](https://packagist.org/packages/horat1us/php-method-injection)
+[![Total Downloads](https://poser.pugx.org/horat1us/php-method-injection/downloads)](https://packagist.org/packages/horat1us/php-method-injection)
+[![License](https://poser.pugx.org/horat1us/php-method-injection/license)](https://packagist.org/packages/horat1us/php-method-injection)
 
 This trait allows you to extend your object with custom method dynamically.
 
