@@ -1,4 +1,8 @@
 # PHP Method Injection Trait
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Horat1us/php-method-injection/build-status/master)
+
 
 This trait allows you to extend your object with custom method dynamically.
 
