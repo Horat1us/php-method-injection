@@ -1,0 +1,23 @@
+{
+  "name": "horat1us/php-method-injection",
+  "description": "PHP Trait to inject methods",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Letnikow",
+      "email": "reclamme@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Horat1us\\MethodInjection\\": "src",
+      "Horat1us\\MethodInjection\\\\Tests\\": "tests"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.2.*"
+  }
+}
